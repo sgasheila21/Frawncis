@@ -1,3 +1,6 @@
+## About This Application
+Frawncis is an online transaction and management application for the Frawncis bakery company, which operates multiple bakery locations across Western and Eastern Europe. The app allows customers to view store locations, browse available products, and make purchases online, while administrators can review incoming transactions and manage store and product data. Overall, Frawncis serves as a digital platform to streamline the company’s online sales and operational management.
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
